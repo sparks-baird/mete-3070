@@ -23,17 +23,17 @@ Since many Python packages are written by different organizations, compatibility
 
 Creating a new environment gives you a clean slate that won't mess with other projects. The GUI instructions for creating a new environment are:
 
-"Environment" tab --> "Create" --> enter "Name" (e.g. mete-3070) --> Choose "Python 3.8" --> "Create"
+`Environment` tab --> `Create` --> enter `Name` (e.g. `mete-3070`) --> Choose `Python 3.8` --> `Create`
 
 To switch to your new environment:
 
-"Home" tab --> "Applications on ..." --> Click dropdown arrow and select "mete-3070" (or whatever you named your environment)
+`Home` tab --> `Applications on ...` --> Click dropdown arrow and select `mete-3070` (or whatever you named your environment)
 
 ### Install Dependencies
 To install the dependencies we'll be working with:
 
-"Install" (see button within either Powershell Prompt or CMD.exe Prompt widget) --> "Launch" (again, either Powershell or CMD.exe) --> type the following command followed by the return key `conda install numpy scipy matplotlib`. Note that these are the dependencies for "Module 1", and other packages may be necessary as the course progresses.
+`Install` (see button within either Powershell Prompt or CMD.exe Prompt widget) --> `Launch` (again, either Powershell or CMD.exe) --> type the following command followed by the return key `conda install numpy scipy matplotlib`. Note that these are the dependencies for "Module 1", and other packages may be necessary as the course progresses.
 
-To install Jupyter Notebook, click the "Install" button within the Jupyter Notebook widget.
+To install Jupyter Notebook, click the `Install` button within the Jupyter Notebook widget.
 
-Click "Launch" inside the Jupyter Notebook widget, navigate to a directory of your choice, and then "New" --> "Python 3" (Notebook).
+Click `Launch` inside the Jupyter Notebook widget, navigate to a directory of your choice, and then `New` --> `Python 3` (Notebook).
