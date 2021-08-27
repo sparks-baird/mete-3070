@@ -21,10 +21,12 @@ Since many Python packages are written by different organizations, compatibility
 
 > A conda environment is a directory that contains a specific collection of conda packages that you have installed. For example, you may have one environment with NumPy 1.7 and its dependencies, and another environment with NumPy 1.6 for legacy testing. If you change one environment, your other environments are not affected. You can easily activate or deactivate environments, which is how you switch between them. You can also share your environment with someone by giving them a copy of your  `environment.yaml` file.
 
+#### Create Environment
 Creating a new environment gives you a clean slate that won't mess with other projects. The GUI instructions for creating a new environment are:
 
 "Environment" tab --> "Create" --> enter "Name" (e.g. mete-3070) --> Choose "Python 3.8" --> "Create"
 
+#### Switch Environment
 To switch to your new environment:
 
 "Home" tab --> "Applications on ..." --> Click dropdown arrow and select "mete-3070" (or whatever you named your environment)
@@ -32,8 +34,10 @@ To switch to your new environment:
 ### Install Dependencies
 To install the dependencies we'll be working with:
 
+#### Packages
 "Install" (see button within either Powershell Prompt or CMD.exe Prompt widget) --> "Launch" (again, either Powershell or CMD.exe) --> type the following command followed by the return key `conda install numpy scipy matplotlib`. Note that these are the dependencies for "Module 1", and other packages may be necessary as the course progresses.
 
+#### Jupyter Notebook
 To install Jupyter Notebook, click the "Install" button within the Jupyter Notebook widget.
 
 Click "Launch" inside the Jupyter Notebook widget, navigate to a directory of your choice, and then "New" --> "Python 3" (Notebook).
