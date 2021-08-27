@@ -14,7 +14,7 @@ _Automating your research paper: Tips, Tricks, and Tools (how to be an amazing g
 </a>
 
 ## New to Python?
-I suggest that you [download Anaconda](https://www.anaconda.com/products/individual-d), [create a new environment](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/) called e.g. mete-3070, and [install the dependencies](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-packages) (NumPy, SciPy, Matplotlib, and Jupyter notebook).
+I suggest that you [download Anaconda](https://www.anaconda.com/products/individual-d), [create a new environment](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/) called e.g. mete-3070, and [install the dependencies](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-packages) (NumPy, SciPy, Matplotlib, and Jupyter notebook). I also recommend Dr. Taylor Sparks' course called [Intro to Python Programming for Materials Engineers](https://youtu.be/aoL3whRmSfc).
 
 ### Environments
 Since many Python packages are written by different organizations, compatibility between packages is a non-trivial issue. Here is a blurb from the [conda docs](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) (Links to an external site.) about environments:
