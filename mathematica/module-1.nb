@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    299309,       6029]
+NotebookDataLength[    299333,       6030]
 NotebookOptionsPosition[    283543,       5737]
-NotebookOutlinePosition[    284054,       5755]
-CellTagsIndexPosition[    284011,       5752]
+NotebookOutlinePosition[    284078,       5756]
+CellTagsIndexPosition[    284035,       5753]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -707,8 +707,8 @@ Cell[BoxData[
                 Opacity[0.66]}], {}, {}], 
              RectangleBox[{5.5, 0}, {6.5, 1673.}, "RoundingRadius" -> 0]},
             
-            ImageSizeCache->{{151.345676541233, 
-             176.64951961569255`}, {-49.11751544908538, 37.85}}],
+            ImageSizeCache->{{150.845676541233, 
+             177.14951961569255`}, {-49.61751544908538, 38.35}}],
            "DelayedMouseEffectStyle"],
           StatusArea[#, 1673]& ,
           TagBoxNote->"1673"],
@@ -5735,8 +5735,9 @@ Cell[BoxData["\<\"C:\\\\Users\\\\sterg\\\\Documents\\\\GitHub\\\\sparks-baird\
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1141.2, 580.1999999999999},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowSize->{1152., 585.6},
+WindowMargins->{{
+  Automatic, -5.399999999999864}, {-5.399999999999977, Automatic}},
 TaggingRules->{
  "WelcomeScreenSettings" -> {"FEStarting" -> False}, "TryRealOnly" -> False},
 FrontEndVersion->"12.2 for Microsoft Windows (64-bit) (December 12, 2020)",
@@ -6028,7 +6029,7 @@ Cell[282163, 5699, 159, 3, 71, "Title",ExpressionUUID->"ccddc483-9d48-4d83-9625-
 Cell[282325, 5704, 314, 7, 35, "Text",ExpressionUUID->"4d72463c-3c6d-4032-a496-7fb1b5f3693f"],
 Cell[CellGroupData[{
 Cell[282664, 5715, 462, 11, 28, "Input",ExpressionUUID->"c2b41093-d944-42ff-9159-8b1085fed102"],
-Cell[283129, 5728, 386, 5, 81, "Output",ExpressionUUID->"3e3d67ce-6930-42d0-9dc9-2b8e8b319e50"]
+Cell[283129, 5728, 386, 5, 32, "Output",ExpressionUUID->"3e3d67ce-6930-42d0-9dc9-2b8e8b319e50"]
 }, Open  ]]
 }, Open  ]]
 }
